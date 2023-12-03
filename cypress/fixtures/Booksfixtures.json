@@ -1,0 +1,47 @@
+{
+    "books": [
+      {
+        "isbn": "9781449325862",
+        "title": "string",
+        "subTitle": "string",
+        "author": "string",
+        "publish_date": "2023-09-18T11:33:14.687Z",
+        "publisher": "string",
+        "pages": 234,
+        "description": "string",
+        "website": "string"
+      }
+    ],
+    "loginData": {
+      "username": "Aleksandar",
+      "password": "Aleksandar12345@"
+    },
+    "bookDataAPI":{
+      "userId": "b6194835-70e9-4504-944f-91730bec8d66",
+      "isbn": "9781449331818"
+
+    },
+    "bookDataPOSTapi":{
+      "userId": "b6194835-70e9-4504-944f-91730bec8d66",
+      "collectionOfIsbns": [
+        {
+          
+          "isbn": "9781449325862"
+        }
+      ]
+    },
+    "bookDataPOSTapi2":{
+      "userId": "b6194835-70e9-4504-944f-91730bec8d66",
+      "collectionOfIsbns": [
+        {
+          
+          "isbn": "9781593275846"
+        }
+      ]
+    },
+    "bookDELETE":{
+      "isbn": "9781593275846"
+    }
+    
+}
+ 
